@@ -1,0 +1,11 @@
+# Binarios ejecutables
+*.exe
+*.out
+
+# Entorno de desarrollo
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+__pycache__/
